@@ -1,0 +1,5 @@
+Count Word Occurrences
+
+Problem:
+
+Write a method that receives a string and counts the number of occurrences of each word. Return a Map<String, Integer> where the key is the word and the value is the number of occurrences. Ignore case and remove punctuation.
