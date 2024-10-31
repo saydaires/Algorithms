@@ -1,0 +1,6 @@
+First Unique Word
+
+Problem:
+Given a string, find the first word that appears only once. 
+If all the words appear more than once, return a message saying that there are no unique words. 
+Consider case differences as the same word.
