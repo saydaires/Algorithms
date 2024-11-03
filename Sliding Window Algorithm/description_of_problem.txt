@@ -1,0 +1,5 @@
+Index Of Anagrams using Sliding Window Algorithm
+
+Problem:
+Given a string s and a word p, find all the occurrences of anagrams of p within s. 
+Return the list of indices where the anagrams begin.
