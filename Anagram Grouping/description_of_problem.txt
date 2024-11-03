@@ -1,0 +1,6 @@
+ANAGRAM GROUPING
+
+Problem:
+Given a list of strings, group the strings that are anagrams of each other. 
+Return a list of lists, where each sublist contains 
+all the words that are anagrams of each other.
